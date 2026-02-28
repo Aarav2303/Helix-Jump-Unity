@@ -1,4 +1,4 @@
-# Helix-Jump-Unity
+<img width="1500" height="911" alt="Screenshot 2026-02-28 213416" src="https://github.com/user-attachments/assets/8a112886-017d-4ce6-9b6a-953f821e9391" /># Helix-Jump-Unity
 3D Helix Jump style arcade game built in Unity using C# with modular gameplay scripts and physics-based mechanics.
 Helix Jump Game – Unity (C#)
 
@@ -46,4 +46,9 @@ The scripts used are:
 📌 Key Points
 
 This project was initially developed during a guided workshop and later refined to improve modular design and understanding of Unity’s physics and scripting systems.
+
+
+<img width="1500" height="911" alt="Screenshot 2026-02-28 213416" src="https://github.com/user-attachments/assets/7115d956-3f95-450f-9e32-8e3d168fd874" />
+
+
 
